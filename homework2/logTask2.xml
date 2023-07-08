@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-08T19:18:19.826803700Z</date>
+  <millis>1688843899826</millis>
+  <nanos>803700</nanos>
+  <sequence>0</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Info Bubble-Sort Array</message>
+</record>
+<record>
+  <date>2023-07-08T19:18:19.913636900Z</date>
+  <millis>1688843899913</millis>
+  <nanos>636900</nanos>
+  <sequence>1</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Warning Bubble-Sort Array</message>
+</record>
+</log>

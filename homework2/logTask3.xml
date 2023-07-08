@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-08T19:24:58.254076700Z</date>
+  <millis>1688844298254</millis>
+  <nanos>76700</nanos>
+  <sequence>0</sequence>
+  <logger>task3</logger>
+  <level>INFO</level>
+  <class>task3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Calculating has done</message>
+</record>
+</log>
